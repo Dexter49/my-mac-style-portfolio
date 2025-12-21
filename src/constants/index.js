@@ -77,25 +77,26 @@ const dockApps = [
 const blogPosts = [
   {
     id: 1,
-    date: "Sep 2, 2025",
+    date: "19th March, 2023",
     title:
-      "TypeScript Explained: What It Is, Why It Matters, and How to Master It",
+      "Introduction to Flutter: Getting Started with Cross-Platform Development",
     image: "/images/blog1.png",
-    link: "https://jsmastery.com/blog/typescript-explained-what-it-is-why-it-matters-and-how-to-master-it",
+    link: "https://dev.to/bigdexter/introduction-to-flutter-getting-started-with-cross-platform-development-mmg",
   },
   {
     id: 2,
-    date: "Aug 28, 2025",
-    title: "The Ultimate Guide to Mastering Three.js for 3D Development",
-    image: "/images/blog2.png",
-    link: "https://jsmastery.com/blog/the-ultimate-guide-to-mastering-three-js-for-3d-development",
+    date: "7th April, 2023",
+    title: "Introduction to Flutter: Setting up your Development Environment",
+    image: "/images/blog1.png",
+    link: "https://dev.to/bigdexter/introduction-to-flutter-setting-up-your-development-environment-1gi5",
   },
   {
     id: 3,
-    date: "Aug 15, 2025",
-    title: "The Ultimate Guide to Mastering GSAP Animations",
-    image: "/images/blog3.png",
-    link: "https://jsmastery.com/blog/the-ultimate-guide-to-mastering-gsap-animations",
+    date: "30th April, 2023",
+    title:
+      "Getting Started with Flutter: A Practical Guide to Creating and Running Your First App",
+    image: "/images/blog1.png",
+    link: "https://dev.to/bigdexter/getting-started-with-flutter-a-practical-guide-to-creating-and-running-your-first-app-5bmp",
   },
 ];
 
@@ -407,7 +408,7 @@ const ABOUT_LOCATION = {
       kind: "file",
       fileType: "img",
       position: "top-10 left-5",
-      imageUrl: "/images/adrian.jpg",
+      imageUrl: "/images/Dexter.png",
     },
     {
       id: 2,
@@ -416,7 +417,7 @@ const ABOUT_LOCATION = {
       kind: "file",
       fileType: "img",
       position: "top-28 right-72",
-      imageUrl: "/images/adrian-2.jpg",
+      imageUrl: "/images/Dexter.png",
     },
     {
       id: 3,
@@ -425,7 +426,7 @@ const ABOUT_LOCATION = {
       kind: "file",
       fileType: "img",
       position: "top-52 left-80",
-      imageUrl: "/images/adrian-3.jpeg",
+      imageUrl: "/images/Dexter.png",
     },
     {
       id: 4,
@@ -435,12 +436,12 @@ const ABOUT_LOCATION = {
       fileType: "txt",
       position: "top-60 left-5",
       subtitle: "Meet the Developer Behind the Code",
-      image: "/images/adrian.jpg",
+      image: "/images/Dexter.png",
       description: [
-        "Hey! I’m Adrian 👋, a web developer who enjoys building sleek, interactive websites that actually work well.",
-        "I specialize in JavaScript, React, and Next.js—and I love making things feel smooth, fast, and just a little bit delightful.",
-        "I’m big on clean UI, good UX, and writing code that doesn’t need a search party to debug.",
-        "Outside of dev work, you'll find me tweaking layouts at 2AM, sipping overpriced coffee, or impulse-buying gadgets I absolutely convinced myself I needed 😅",
+        "Hey, I’m Dexter 👋, a UI/UX designer and full-stack engineer who builds products that look sharp, feel intuitive, and actually scale.",
+        "work across design, frontend, backend, and Web3, turning complex ideas into clean interfaces and reliable systems—without sacrificing performance or usability.",
+        "I care deeply about good UX, thoughtful design systems, and code that’s readable, maintainable, and built for real users.",
+        "When I’m not shipping products, I’m refining flows, exploring new protocols, or obsessing over how to make things just work better. 🔥",
       ],
     },
   ],
