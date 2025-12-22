@@ -142,22 +142,22 @@ const socials = [
     id: 1,
     text: "Github",
     icon: "/icons/github.svg",
-    bg: "#f4656b",
+    bg: "#000000",
     link: "https://github.com/Dexter49",
   },
   {
     id: 2,
     text: "Platform",
     icon: "/icons/atom.svg",
-    bg: "#4bcb63",
+    bg: "#131a85",
     link: "https://jsmastery.com/",
   },
   {
     id: 3,
-    text: "Twitter/X",
+    text: "X",
     icon: "/icons/twitter.svg",
-    bg: "#ff866b",
-    link: "https://x.com/BigDexter_",
+    bg: "#000000",
+    link: "https://x.com/DanielTobiOnipe",
   },
   {
     id: 4,
@@ -397,7 +397,7 @@ const WORK_LOCATION = {
 const ABOUT_LOCATION = {
   id: 2,
   type: "about",
-  name: "About me",
+  name: "About Me",
   icon: "/icons/info.svg",
   kind: "folder",
   children: [
@@ -450,13 +450,13 @@ const ABOUT_LOCATION = {
 const RESUME_LOCATION = {
   id: 3,
   type: "resume",
-  name: "Resume",
+  name: "Resumé",
   icon: "/icons/file.svg",
   kind: "folder",
   children: [
     {
       id: 1,
-      name: "Resume.pdf",
+      name: "My CV/Resumé.pdf",
       icon: "/images/pdf.png",
       kind: "file",
       fileType: "pdf",
